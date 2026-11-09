@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+openpyxl
+scikit-learn
+imbalanced-learn
+nltk
+joblib
